@@ -2,7 +2,7 @@
 # Pokedev
 
 - Estudo de criação de páginas responsiva e interações com imagens
-- Desenvolvid na devweek do Dev em dobro
+- Desenvolvido na devweek do Dev em dobro
 - Aprofundando conhecimentos de HTML,CSS e javaScript
 
 # Demonstração
